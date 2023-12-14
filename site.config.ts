@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '62f64778058c463189d57ab09bfc1ca4',
+  rootNotionPageId: '6fff00d4cf02413483dad4cf188de637',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'ac009527',
 
   // open graph metadata (optional)
-  description: 'ac009527 Next.js Notion Site',
+  description: 'Next.js Notion Site',
 
   // social usernames (optional)
   // twitter: 'ac009527',
-  github: 'ac009527',
+  github: 'achuan9527',
   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
